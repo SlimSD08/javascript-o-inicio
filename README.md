@@ -5,9 +5,6 @@ Estudos iniciais de JavaScript
 
 ## Conteúdo Inicial
 
-- item 1
-- item 2
-- item 3
 # Conteúdo Mínimo para Começar a Estudar JavaScript
 
 ## 1. Introdução ao JavaScript
